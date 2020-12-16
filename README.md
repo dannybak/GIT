@@ -1,0 +1,2 @@
+# REPOSITORIO SINCRONIZADO
+Con la consola
