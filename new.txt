@@ -1,5 +1,6 @@
 newton se la come
 sabeeee
+<<<<<<< Updated upstream
 
 
 eh toga
@@ -7,3 +8,6 @@ eh toga
 vamo la pepa
 
 eh toga pasamae la coca
+=======
+hola
+>>>>>>> Stashed changes
