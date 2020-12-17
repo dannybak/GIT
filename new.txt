@@ -1,6 +1,10 @@
 newton se la come
 sabeeee
 
+<<<<<<< HEAD
 eh toga
 
 vamo la pepa
+=======
+eh toga pasamae la coca
+>>>>>>> 7852818ac821d4f76277d6290fea03c8258fed79
